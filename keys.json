@@ -1,0 +1,15 @@
+{
+	"cookies" : {
+		"AWSELB": "",
+		"AWSELBCORS": "",
+		"deskmanager": "",
+		"_ga": "",
+		"_gid": "",
+		"_gat": ""
+	},
+	"Aguardando Aprovação" : "📝",
+	"Aguardando Atendimento" : "⏳",
+	"Andamento" : "🚶",
+	"Transferência" : "🔄",
+	"Aguardando Cliente" : "📆"
+}
